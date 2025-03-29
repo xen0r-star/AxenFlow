@@ -6,12 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
+pnpm-debug.log*
+lerna-debug.log*
 
 # Firebase cache
 .firebase/
 
 # Firebase config
-
 # Uncomment this if you'd like others to create their own Firebase project.
 # For a team working on the same Firebase project(s), it is recommended to leave
 # it commented so all members can deploy to the same project(s) in .firebaserc.
@@ -46,6 +47,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+dist/
+dist-ssr/
 
 # Optional npm cache directory
 .npm
@@ -67,3 +70,17 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local environment and system-specific files
+*.local
