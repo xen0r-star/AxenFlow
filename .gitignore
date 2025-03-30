@@ -84,3 +84,5 @@ dist-ssr/
 
 # Local environment and system-specific files
 *.local
+*build/*
+*dist/*
