@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "node_modules": true,
+        "src/main.tsx": true,
+        "src/vite-env.d.ts": true
+    },
+    "hide-files.files": [
+        "node_modules",
+        "src/main.tsx",
+        "src/vite-env.d.ts"
+    ]
+}
