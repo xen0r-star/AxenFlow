@@ -1,11 +1,11 @@
 import MarkdownViewer from "../components/MarkdownViewer";
 
-const Note = () => {
+const Home = () => {
     return (
         <div className="p-4 bg-white rounded shadow text-black">
-            <MarkdownViewer path="/readme/Notes.md" />
+            <MarkdownViewer path="/readme/Home.md" />
         </div>
     );
 };
 
-export default Note;
+export default Home;
