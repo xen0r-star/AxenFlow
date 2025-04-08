@@ -1,8 +1,9 @@
+import MarkdownViewer from "../components/MarkdownViewer";
+
 const Introduction = () => {
     return (
-        <div>
-            <h1 className="text-3xl font-bold">Introduction</h1>
-            <p className="mt-4">Bienvenue sur la page Introduction !</p>
+        <div className="p-4 bg-white rounded shadow text-black">
+            <MarkdownViewer path="/readme/Introduction.md" />
         </div>
     );
 };
