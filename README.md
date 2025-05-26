@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="./Image/Logo.png" alt="AxenFlow Logo" width="300"/>
+    <img src="./assets/Logo.png" alt="AxenFlow Logo" width="300"/>
 </div>
 
 ## 🚀 Présentation
@@ -41,5 +41,13 @@ Dans l'onglet **Email**, vous pouvez :
 - Définir le **répertoire de stockage** des fichiers générés.
 - Utiliser le mode **manuel** pour sélectionner un fichier ou **automatique** pour générer et envoyer les fichiers instantanément.
 
+## 📸 Screenshots
+
+<div align="left">
+    <img src="./assets/screenshot1.png" alt="Onglets élèves" width="600"/>
+    <img src="./assets/screenshot2.png" alt="Onglets Email 1" width="600"/>
+    <img src="./assets/screenshot3.png" alt="Onglets Email 2" width="600"/>
+</div>
+
 ## 📢 Support
-Si vous rencontrez des difficultés, consultez la documentation en ligne sur [AxenFlow.web.app](https://AxenFlow.web.app) ou ne contactez pas le support, car il n'y en a pas.
+Si vous rencontrez des difficultés, consultez la [documentation en ligne](https://xen0r-star.github.io/AxenFlow/) ou ne contactez pas le support, car il n'y en a pas.
